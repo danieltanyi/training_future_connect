@@ -24,3 +24,4 @@ print(student_dict)
 # If you want to check data type you can write
 print(type(car_brands_set))
 print(type(student_dict))
+
